@@ -3,7 +3,7 @@ import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.min.css'; // Ensure to import Font Awesome
 import Header from './Header'; // Import the Header component
 import Hero from './Hero'; // Import the Hero component
-import FAQ from './FAQ'; // Import the FAQ component
+import FAQ from './faq'; // Import the FAQ component
 import FeatureCard from './FeatureCard'; // Import FeatureCard component
 import Footer from './Footer'; // Import the Footer component
 import Res from './Res'; // Import Resources component
